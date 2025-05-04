@@ -1,4 +1,4 @@
-# Hi there, I'm Chris 👋 the <Intrepid-Developer/>
+# Hi there, I'm Chris 👋 the Intrepid-Developer
 
 Welcome to my GitHub! I'm a full-stack developer with over 15 years of experience working in the Microsoft ecosystem, specialising in **.NET**, **Blazor**, **Azure**, **PowerShell**, and **Bicep**.
 
@@ -12,8 +12,11 @@ I'm currently a **Lead Developer at Mobilityways**, where we're building tools t
 - Balancing tech life with being a proud dad of two awesome boys 👨‍👦‍👦
 
 ## ☕ Support My Work
+**Thanks for your support!** Every coffee helps me keep the blog running, create new content, and grow this community. Whether it goes toward hosting, gear, or just buying back a little time to write and record, it's hugely appreciated. 💛
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/intrepid.developer)
+<a href="https://www.buymeacoffee.com/intrepid.developer" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+</a>
 
 ## 📫 Let's Connect
 
