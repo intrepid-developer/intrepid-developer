@@ -27,6 +27,7 @@ I'm currently a **Lead Developer at Mobilityways**, where we're building tools t
 - 🐦 [X / Twitter](https://x.com/IntrepidDev1988)
 - ☁️ [Bluesky](https://bsky.app/profile/intrepid-developer.com)
 - 💼 [LinkedIn](https://linkedin.com/in/chris-vanderplank)
+- ▶️ [YouTube](https://www.youtube.com/@intrepid-developer)
 
 ---
 
