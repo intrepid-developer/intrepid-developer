@@ -10,6 +10,7 @@ I'm currently a **Lead Developer at Mobilityways**, where we're building tools t
 - **[Pollen Cloak](https://pollencloak.app)** — private pollen forecast and hay fever planning for iPhone
 - **[Maldric](https://maldric.com)** — an authoring product for indie authors. AI helps you move faster; the words stay yours
 - **[Intrepid Developer](https://intrepid-developer.com)** — my blog on .NET, Blazor, Azure, and more
+- **[Intrepid Developer on YouTube](https://www.youtube.com/@intrepid-developer)** — the channel I kept saying was “coming soon” is finally live. Father. Coder. Author. Me trying to fit all three into one life while finding my way into the AI era. Early days, so be kind 🙂
 - Public Aspire hosting for Railway — [`aspire-hosting-railway`](https://github.com/intrepid-developer/aspire-hosting-railway) / `IntrepidDeveloper.Aspire.Hosting.Railway`
 - Sharing real-world insights from my career and side projects
 - Balancing tech life with being a proud dad of two awesome boys 👨‍👦‍👦
